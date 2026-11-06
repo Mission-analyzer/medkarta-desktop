@@ -1,0 +1,221 @@
+﻿key,Материал,Название (рус.),Название (укр.),Название (англ.),Аббревиатуры,Тип величины,Основная единица,Тип результата,Знаков после запятой,Шкала графика,Примечание
+blood.cbc.wbc,blood_venous,Лейкоциты,Лейкоцити,White blood cells,WBC,количество,10^9/L,numeric,2,linear,
+blood.cbc.rbc,blood_venous,Эритроциты,Еритроцити,Red blood cells,RBC,количество,10^12/L,numeric,2,linear,
+blood.cbc.hgb,blood_venous,Гемоглобин,Гемоглобін,Hemoglobin,"HGB, Hb, Hgb",концентрация,g/L,numeric,0,linear,
+blood.cbc.hct,blood_venous,Гематокрит,Гематокрит,Hematocrit,"HCT, Ht",доля,%,numeric,1,linear,"Иногда дают в л/л (0,45) — пересчёт ×100"
+blood.cbc.mcv,blood_venous,Средний объём эритроцита,Середній об'єм еритроцита,Mean corpuscular volume,MCV,объём,fL,numeric,1,linear,
+blood.cbc.mch,blood_venous,Среднее содержание гемоглобина в эритроците,Середній вміст гемоглобіну в еритроциті,Mean corpuscular hemoglobin,MCH,масса,pg,numeric,1,linear,
+blood.cbc.mchc,blood_venous,Средняя концентрация гемоглобина в эритроцитах,Середня концентрація гемоглобіну в еритроцитах,Mean corpuscular hemoglobin concentration,MCHC,концентрация,g/L,numeric,0,linear,"«Сінево» пишет в г/дл (33,3), «Діла» — в г/л (355)"
+blood.cbc.rdw_cv,blood_venous,"Ширина распределения эритроцитов, коэф. вариации","Ширина розподілу еритроцитів, коефіцієнт варіації","RBC distribution width, CV",RDW-CV,доля,%,numeric,1,linear,
+blood.cbc.rdw_sd,blood_venous,"Ширина распределения эритроцитов, станд. отклонение","Ширина розподілу еритроцитів, стандартне відхилення","RBC distribution width, SD",RDW-SD,объём,fL,numeric,1,linear,
+blood.cbc.plt,blood_venous,Тромбоциты,Тромбоцити,Platelets,PLT,количество,10^9/L,numeric,0,linear,
+blood.cbc.mpv,blood_venous,Средний объём тромбоцитов,Середній об'єм тромбоцитів,Mean platelet volume,MPV,объём,fL,numeric,1,linear,
+blood.cbc.pdw_fl,blood_venous,"Ширина распределения тромбоцитов, фл","Ширина розподілу тромбоцитів, фл","Platelet distribution width, fL",PDW,объём,fL,numeric,1,linear,«Сінево»: 10–20 фл. Не путать с PDW в % — разные величины
+blood.cbc.pdw_pct,blood_venous,"Ширина распределения тромбоцитов, %","Ширина розподілу тромбоцитів, %","Platelet distribution width, %",PDW,доля,%,numeric,1,linear,"«Діла»: 15,7–18 %. Не путать с PDW в фл"
+blood.cbc.pct,blood_venous,Тромбокрит,Тромбокрит,Plateletcrit,PCT,доля,%,numeric,2,linear,
+blood.cbc.neut_pct,blood_venous,"Нейтрофилы, %","Нейтрофіли, %","Neutrophils, %","NEUT%, Neu",доля,%,numeric,1,linear,
+blood.cbc.neut_abs,blood_venous,"Нейтрофилы, абс.","Нейтрофіли, абс.","Neutrophils, abs.","NEUT#, Neu",количество,10^9/L,numeric,2,linear,
+blood.cbc.band_pct,blood_venous,"Палочкоядерные нейтрофилы, %","Паличкоядерні нейтрофіли, %","Band neutrophils, %",BAND,доля,%,numeric,0,linear,Бывает при ручном подсчёте формулы; в просмотренных бланках не встречался
+blood.cbc.seg_pct,blood_venous,"Сегментоядерные нейтрофилы, %","Сегментоядерні нейтрофіли, %","Segmented neutrophils, %",SEG,доля,%,numeric,0,linear,Бывает при ручном подсчёте формулы; в просмотренных бланках не встречался
+blood.cbc.lymph_pct,blood_venous,"Лимфоциты, %","Лімфоцити, %","Lymphocytes, %","LYMPH%, LY",доля,%,numeric,1,linear,
+blood.cbc.lymph_abs,blood_venous,"Лимфоциты, абс.","Лімфоцити, абс.","Lymphocytes, abs.","LYMPH#, LY",количество,10^9/L,numeric,2,linear,
+blood.cbc.mono_pct,blood_venous,"Моноциты, %","Моноцити, %","Monocytes, %","MONO%, Mon",доля,%,numeric,1,linear,
+blood.cbc.mono_abs,blood_venous,"Моноциты, абс.","Моноцити, абс.","Monocytes, abs.","MONO#, Mon",количество,10^9/L,numeric,2,linear,
+blood.cbc.eos_pct,blood_venous,"Эозинофилы, %","Еозинофіли, %","Eosinophils, %","EO%, Eo",доля,%,numeric,1,linear,
+blood.cbc.eos_abs,blood_venous,"Эозинофилы, абс.","Еозинофіли, абс.","Eosinophils, abs.","EO#, Eo",количество,10^9/L,numeric,2,linear,
+blood.cbc.baso_pct,blood_venous,"Базофилы, %","Базофіли, %","Basophils, %","BASO%, Bas",доля,%,numeric,1,linear,
+blood.cbc.baso_abs,blood_venous,"Базофилы, абс.","Базофіли, абс.","Basophils, abs.","BASO#, Bas",количество,10^9/L,numeric,2,linear,
+blood.cbc.ig_pct,blood_venous,"Незрелые гранулоциты, %","Незрілі гранулоцити, %","Immature granulocytes, %",IG%,доля,%,numeric,1,linear,
+blood.cbc.ig_abs,blood_venous,"Незрелые гранулоциты, абс.","Незрілі гранулоцити, абс.","Immature granulocytes, abs.",IG#,количество,10^9/L,numeric,2,linear,
+blood.cbc.nrbc_pct,blood_venous,"Ядросодержащие эритроциты, %","Ядровмісні еритроцити, %","Nucleated RBC, %",NRBC%,доля,%,numeric,1,linear,
+blood.cbc.nrbc_abs,blood_venous,"Ядросодержащие эритроциты, абс.","Ядровмісні еритроцити, абс.","Nucleated RBC, abs.",NRBC#,количество,10^9/L,numeric,2,linear,
+blood.cbc.nlr,blood_venous,Нейтрофильно-лимфоцитарное соотношение,Нейтрофільно-лімфоцитарне співвідношення,Neutrophil-to-lymphocyte ratio,NLR,отношение,,numeric,2,linear,Безразмерное
+blood.cbc.lhd,blood_venous,Низкая плотность гемоглобина,Низька щільність гемоглобіну,Low hemoglobin density,LHD,доля,%,numeric,1,linear,Расчётный индекс анализаторов Sysmex
+blood.cbc.maf,blood_venous,Фактор микроцитарной анемии,Фактор мікроцитарної анемії,Microcytic anemia factor,MaF,доля,%,numeric,1,linear,Расчётный индекс
+blood.esr,blood_venous,Скорость оседания эритроцитов,Швидкість осідання еритроцитів,Erythrocyte sedimentation rate,"СОЭ, ШОЕ, ESR",скорость,mm/h,numeric,0,linear,Норма зависит от метода; «Сінево» — метод Вестергрена
+blood.bio.creat,blood_venous,Креатинин,Креатинін,Creatinine,CREA,концентрация,umol/L,numeric,0,linear,
+blood.bio.urea,blood_venous,Мочевина,Сечовина,Urea,UREA,концентрация,mmol/L,numeric,1,linear,Не путать с азотом мочевины (BUN)
+blood.bio.uric,blood_venous,Мочевая кислота,Сечова кислота,Uric acid,UA,концентрация,umol/L,numeric,0,linear,
+blood.bio.alt,blood_venous,АЛТ,АЛТ,ALT,"ALT, АЛТ, АлАТ",активность,U/L,numeric,0,linear,
+blood.bio.ast,blood_venous,АСТ,АСТ,AST,"AST, АСТ, АсАТ",активность,U/L,numeric,0,linear,
+blood.bio.ggt,blood_venous,Гамма-глутамилтрансфераза,Гамма-глутамілтрансфераза,Gamma-glutamyl transferase,"GGT, ГГТ, ГГТП",активность,U/L,numeric,0,linear,
+blood.bio.alp,blood_venous,Щелочная фосфатаза,Лужна фосфатаза,Alkaline phosphatase,"ALP, ЛФ, ЩФ",активность,U/L,numeric,0,linear,
+blood.bio.bil_total,blood_venous,Билирубин общий,Білірубін загальний,Total bilirubin,TBIL,концентрация,umol/L,numeric,1,linear,
+blood.bio.bil_direct,blood_venous,Билирубин прямой,Білірубін прямий,Direct bilirubin,DBIL,концентрация,umol/L,numeric,1,linear,
+blood.bio.bil_indirect,blood_venous,Билирубин непрямой,Білірубін непрямий,Indirect bilirubin,IBIL,концентрация,umol/L,numeric,1,linear,Расчётный; норма в бланке словами
+blood.bio.protein,blood_venous,Общий белок,Загальний білок,Total protein,TP,концентрация,g/L,numeric,1,linear,
+blood.bio.albumin,blood_venous,Альбумин,Альбумін,Albumin,ALB,концентрация,g/L,numeric,1,linear,
+blood.bio.glucose,blood_venous,Глюкоза,Глюкоза,Glucose,GLU,концентрация,mmol/L,numeric,1,linear,Норма — по бланку
+blood.thyroid.tsh,blood_venous,ТТГ (тиреотропный гормон),ТТГ (тиреотропний гормон),TSH (thyroid-stimulating hormone),"TSH, ТТГ",концентрация,mIU/L,numeric,2,log,
+blood.thyroid.ft4,blood_venous,Т4 свободный,Т4 вільний,Free T4,FT4,концентрация,pmol/L,numeric,1,linear,"CSD пишет в ng/dL — пересчёт ×12,87"
+urine.oam.color,urine,Цвет,Колір,Colour,,описание,,qualitative,2,linear,
+urine.oam.clarity,urine,Прозрачность,Прозорість,Clarity,,описание,,qualitative,2,linear,
+urine.oam.sg,urine,Относительная плотность,Відносна щільність,Specific gravity,,концентрация,g/mL,numeric,3,linear,
+urine.oam.ph,urine,pH мочи,pH сечі,Urine pH,,доля,,numeric,2,linear,
+urine.oam.protein,urine,Белок в моче,Білок у сечі,Urine protein,,концентрация,g/L,numeric,2,linear,
+urine.oam.glucose,urine,Глюкоза в моче,Глюкоза в сечі,Urine glucose,,концентрация,mmol/L,numeric,2,linear,
+urine.oam.ketones,urine,Кетоны,Кетони,Ketones,,концентрация,mmol/L,numeric,2,linear,
+urine.oam.bilirubin,urine,Билирубин в моче,Білірубін у сечі,Urine bilirubin,,концентрация,umol/L,numeric,2,linear,
+urine.oam.urobilinogen,urine,Уробилиноген,Уробіліноген,Urobilinogen,,концентрация,umol/L,numeric,2,linear,
+urine.oam.nitrite,urine,Нитриты,Нітрити,Nitrite,,описание,,qualitative,2,linear,
+urine.oam.rbc_strip,urine,Эритроциты (тест-полоска),Еритроцити (тест-смужка),Red blood cells (dipstick),,количество,cells/uL,numeric,2,linear,
+urine.oam.hb_strip,urine,Гемоглобин (тест-полоска),Гемоглобін (тест-смужка),Haemoglobin (dipstick),,концентрация,mg/dL,numeric,2,linear,
+urine.oam.wbc_strip,urine,Лейкоциты (тест-полоска),Лейкоцити (тест-смужка),White blood cells (dipstick),,количество,cells/uL,numeric,2,linear,
+urine.oam.rbc,urine,Эритроциты (микроскопия),Еритроцити (мікроскопія),Red blood cells (microscopy),,количество,/uL,numeric,2,linear,
+urine.oam.rbc_nonlysed,urine,Нелизированные эритроциты,Нелізовані еритроцити,Non-lysed red blood cells,,количество,/uL,numeric,2,linear,
+urine.oam.wbc,urine,Лейкоциты (микроскопия),Лейкоцити (мікроскопія),White blood cells (microscopy),,количество,/uL,numeric,2,linear,
+urine.oam.wbc_clumps,urine,Лейкоциты (скопления),Лейкоцити (згустки),White blood cell clumps,,количество,/uL,numeric,2,linear,
+urine.oam.epi,urine,Эпителий общий,Епітелій загальний,"Epithelial cells, total",,количество,/uL,numeric,2,linear,
+urine.oam.epi_squamous,urine,Плоский эпителий,Плаский епітелій,Squamous epithelial cells,,количество,/uL,numeric,2,linear,
+urine.oam.epi_nonsquamous,urine,Неплоский эпителий,Неплаский епітелій,Non-squamous epithelial cells,,количество,/uL,numeric,2,linear,
+urine.oam.epi_transitional,urine,Переходный эпителий,Перехідний епітелій,Transitional epithelial cells,,количество,/uL,numeric,2,linear,
+urine.oam.epi_renal,urine,Почечный эпителий,Нирковий епітелій,Renal epithelial cells,,количество,/uL,numeric,2,linear,
+urine.oam.casts,urine,Цилиндры общие,Циліндри загальні,"Casts, total",,количество,/uL,numeric,2,linear,
+urine.oam.casts_hyaline,urine,Цилиндры гиалиновые,Циліндри гіалінові,Hyaline casts,,количество,/uL,numeric,2,linear,
+urine.oam.casts_epithelial,urine,Цилиндры эпителиальные,Циліндри епітеліальні,Epithelial casts,,количество,/uL,numeric,2,linear,
+urine.oam.casts_granular,urine,Цилиндры зернистые,Циліндри зернисті,Granular casts,,количество,/uL,numeric,2,linear,
+urine.oam.casts_waxy,urine,Цилиндры восковидные,Циліндри воскоподібні,Waxy casts,,количество,/uL,numeric,2,linear,
+urine.oam.casts_rbc,urine,Цилиндры эритроцитарные,Циліндри еритроцитарні,Red cell casts,,количество,/uL,numeric,2,linear,
+urine.oam.casts_wbc,urine,Цилиндры лейкоцитарные,Циліндри лейкоцитарні,White cell casts,,количество,/uL,numeric,2,linear,
+urine.oam.crystals,urine,Кристаллы общие,Кристали загальні,"Crystals, total",,количество,/uL,numeric,2,linear,
+urine.oam.cr_oxalate,urine,Кристаллы оксалата кальция,Кристали оксалату кальцію,Calcium oxalate crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_triple,urine,Кристаллы трипельфосфатов,Кристали трипельфосфатів,Triple phosphate crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_uric,urine,Кристаллы мочевой кислоты,Кристали сечової кислоти,Uric acid crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_phoslime,urine,Кристаллы фосфорнокислой извести,Кристали фосфорнокислого вапна,Calcium phosphate (lime) crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_biurate,urine,Кристаллы биурата аммония,Кристали біурата амонію,Ammonium biurate crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_bilirubin,urine,Кристаллы билирубина,Кристали білірубіну,Bilirubin crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_carbonate,urine,Кристаллы карбоната кальция,Кристали карбонату кальцію,Calcium carbonate crystals,,количество,/uL,numeric,2,linear,
+urine.oam.cr_phosphate,urine,Кристаллы фосфата кальция,Кристали фосфату кальцію,Calcium phosphate crystals,,количество,/uL,numeric,2,linear,
+urine.oam.amorph_phos,urine,Аморфные фосфаты,Аморфні фосфати,Amorphous phosphates,,количество,/uL,numeric,2,linear,
+urine.oam.amorph_urates,urine,Аморфные ураты,Аморфні урати,Amorphous urates,,количество,/uL,numeric,2,linear,
+urine.oam.mucus,urine,Слизь,Слиз,Mucus,,количество,/uL,numeric,2,linear,
+urine.oam.bacteria,urine,Бактерии,Бактерії,Bacteria,,количество,/uL,numeric,2,linear,
+urine.oam.bacteria_diff,urine,Бактерии (дифференцировка),Бактерії (диференціювання),Bacteria (differentiation),,описание,,qualitative,2,linear,
+urine.oam.yeast,urine,Дрожжеподобные грибы,Дріжджеподібні гриби,Yeast-like fungi,,количество,/uL,numeric,2,linear,
+urine.oam.trichomonas,urine,Трихомонады,Трихомонади,Trichomonas,,количество,/hpf,numeric,2,linear,
+urine.oam.sperm,urine,Сперматозоиды,Сперматозоїди,Spermatozoa,,количество,/uL,numeric,2,linear,
+urine.oam.atypical,urine,Атипичные клетки,Атипові клітини,Atypical cells,,количество,/uL,numeric,2,linear,
+stool.copro.form,stool,Форма кала,Форма калу,Stool form,,описание,,qualitative,1,linear,
+stool.copro.consistency,stool,Консистенция,Консистенція,Consistency,,описание,,qualitative,1,linear,
+stool.copro.color,stool,Цвет кала,Колір калових мас,Stool colour,,описание,,qualitative,1,linear,
+stool.copro.odor,stool,Запах,Запах,Odour,,описание,,qualitative,1,linear,
+stool.copro.reaction,stool,Реакция,Реакція,Reaction,,описание,,qualitative,1,linear,
+stool.copro.ph,stool,pH кала,pH калу,Stool pH,,кислотность,,numeric,1,linear,
+stool.copro.connective,stool,Соединительная ткань,Сполучна тканина,Connective tissue,,описание,,qualitative,1,linear,
+stool.copro.muscle_undig,stool,Мышечные волокна непереваренные,М'язові волокна неперетравлені,Undigested muscle fibres,,описание,,qualitative,1,linear,
+stool.copro.muscle_dig,stool,Мышечные волокна переваренные,М'язові волокна перетравлені,Digested muscle fibres,,описание,,qualitative,1,linear,
+stool.copro.muscle_striation,stool,Исчерченность мышечных волокон,Смугастість м'язових волокон,Muscle fibre striation,,описание,,qualitative,1,linear,
+stool.copro.neutral_fat,stool,Нейтральный жир,Нейтральний жир,Neutral fat,,описание,,qualitative,1,linear,
+stool.copro.fatty_acids,stool,Жирные кислоты,Жирні кислоти,Fatty acids,,описание,,qualitative,1,linear,
+stool.copro.fiber_undig,stool,Неперевариваемая клетчатка,Неперетравлена клітковина,Indigestible fibre,,описание,,qualitative,1,linear,
+stool.copro.soaps,stool,Мыла,Мила,Soaps,,описание,,qualitative,1,linear,
+stool.copro.fiber_dig,stool,Перевариваемая клетчатка,Перетравлена клітковина,Digestible fibre,,описание,,qualitative,1,linear,
+stool.copro.starch_extra,stool,Крахмальные зёрна внеклеточные,Крохмальні зерна позаклітинні,Extracellular starch,,описание,,qualitative,1,linear,
+stool.copro.starch_intra,stool,Крахмальные зёрна внутриклеточные,Крохмальні зерна внутрішньоклітинні,Intracellular starch,,описание,,qualitative,1,linear,
+stool.copro.iodophilic,stool,Йодофильные бактерии,Йодофільні бактерії,Iodophilic bacteria,,описание,,qualitative,1,linear,
+stool.copro.mucus,stool,Слизь,Слиз,Mucus,,описание,,qualitative,1,linear,
+stool.copro.wbc,stool,Лейкоциты в кале,Лейкоцити (копрограма),White blood cells (stool),,описание,,qualitative,1,linear,
+stool.copro.rbc,stool,Эритроциты в кале,Еритроцити (копрограма),Red blood cells (stool),,описание,,qualitative,1,linear,
+stool.copro.epithelium,stool,Эпителий,Епітелій,Epithelium,,описание,,qualitative,1,linear,
+stool.copro.protozoa,stool,Простейшие (цисты лямблий),Найпростіші (цисти лямблій),Protozoa (Giardia cysts),,описание,,qualitative,1,linear,
+stool.copro.yeast,stool,Дрожжевые грибы,Дріжджовий грибок,Yeast,,описание,,qualitative,1,linear,
+stool.copro.helminth_eggs,stool,Яйца гельминтов,Яйця гельмінтів,Helminth eggs,,описание,,qualitative,1,linear,
+stool.copro.crystals,stool,Кристаллы,Кристали,Crystals,,описание,,qualitative,1,linear,
+blood.elec.k,blood_venous,Калий,Калій,Potassium,K,концентрация,mmol/L,numeric,2,linear,
+blood.elec.na,blood_venous,Натрий,Натрій,Sodium,Na,концентрация,mmol/L,numeric,0,linear,
+blood.elec.mg,blood_venous,Магний,Магній,Magnesium,Mg,концентрация,mmol/L,numeric,2,linear,
+blood.elec.ca_ion,blood_venous,Кальций ионизированный,Кальцій іонізований,Ionised calcium,Ca2+,концентрация,mmol/L,numeric,2,linear,
+blood.iron.fe,blood_venous,Железо,Залізо,Serum iron,Fe,концентрация,umol/L,numeric,1,linear,
+blood.iron.ferritin,blood_venous,Ферритин,Феритин,Ferritin,FER,концентрация,ng/mL,numeric,1,log,
+blood.vit.b12,blood_venous,Витамин B12,Вітамін B12,Vitamin B12,B12,концентрация,pg/mL,numeric,0,linear,
+blood.vit.d25,blood_venous,Витамин D (25-OH),Вітамін D (25-OH),Vitamin D (25-OH),25(OH)D,концентрация,nmol/L,numeric,1,linear,"Шкала: <50 дефицит, 50–75 недостаточность, 75–125 достаточный уровень"
+blood.lipid.chol,blood_venous,Холестерин общий,Холестерин загальний,Total cholesterol,"TC, CHOL",концентрация,mmol/L,numeric,2,linear,"ESC 2016: <5,2; при ИБС и диабете <4,5"
+blood.carb.hba1c,blood_venous,Гликированный гемоглобин,Глікований гемоглобін,Glycated haemoglobin,HbA1c,доля,%,numeric,1,linear,
+blood.carb.insulin,blood_venous,Инсулин,Інсулін,Insulin,INS,концентрация,mIU/L,numeric,1,log,
+blood.carb.homa,blood_venous,Индекс HOMA,Індекс HOMA,HOMA-IR,HOMA,отношение,,numeric,1,linear,"Глюкоза × инсулин / 22,5"
+blood.bio.homocysteine,blood_venous,Гомоцистеин,Гомоцистеїн,Homocysteine,HCY,концентрация,umol/L,numeric,1,linear,"11–14 умеренный, 15–29 высокий риск ССЗ"
+blood.thyroid.atpo,blood_venous,Антитела к ТПО,Антитіла до ТПО,Anti-TPO antibodies,"АТПО, ATPO, anti-TPO",концентрация,IU/mL,numeric,2,linear,Числовое значение и вывод «негативний/позитивний»
+blood.horm.psa,blood_venous,ПСА общий,ПСА загальний,Total PSA,"PSA, ПСА",концентрация,ng/mL,numeric,2,log,"<2,5 норма; 2,5–4,0 низкий риск; 4,0–10 высокий"
+blood.horm.testo,blood_venous,Тестостерон общий,Тестостерон загальний,Total testosterone,TESTO,концентрация,nmol/L,numeric,2,linear,
+blood.horm.testo_free,blood_venous,Тестостерон свободный,Тестостерон вільний,Free testosterone,FT,концентрация,pg/mL,numeric,2,linear,«Діла» в 2025 сменила тест-систему
+blood.horm.fsh,blood_venous,ФСГ,ФСГ,FSH,"FSH, ФСГ",концентрация,IU/L,numeric,2,linear,У женщин норма зависит от фазы цикла
+blood.horm.lh,blood_venous,ЛГ,ЛГ,LH,"LH, ЛГ",концентрация,IU/L,numeric,2,linear,У женщин норма зависит от фазы цикла
+blood.horm.prolactin,blood_venous,Пролактин,Пролактин,Prolactin,PRL,концентрация,ng/mL,numeric,2,linear,
+imaging.abd.liver,imaging,"Печень, размер","Печінка, розмір",Liver size,,размер,cm,numeric,1,linear,Норма — для среднеключичной линии; в протоколах часто меряют косой вертикальный размер правой доли
+imaging.abd.portal_vein,imaging,"Воротная вена, диаметр","Ворітна вена, діаметр",Portal vein diameter,,размер,cm,numeric,1,linear,
+imaging.abd.gb_length,imaging,"Желчный пузырь, длина","Жовчний міхур, довжина",Gallbladder length,,размер,cm,numeric,1,linear,
+imaging.abd.gb_width,imaging,"Желчный пузырь, ширина","Жовчний міхур, ширина",Gallbladder width,,размер,cm,numeric,1,linear,
+imaging.abd.cbd,imaging,Холедох,Холедох,Common bile duct,,размер,cm,numeric,2,linear,После удаления желчного пузыря и с возрастом может быть шире
+imaging.abd.panc_head,imaging,"Поджелудочная, головка","Підшлункова залоза, головка",Pancreatic head,,размер,cm,numeric,1,linear,
+imaging.abd.panc_body,imaging,"Поджелудочная, тело","Підшлункова залоза, тіло",Pancreatic body,,размер,cm,numeric,1,linear,
+imaging.abd.panc_tail,imaging,"Поджелудочная, хвост","Підшлункова залоза, хвіст",Pancreatic tail,,размер,cm,numeric,1,linear,
+imaging.abd.panc_duct,imaging,Панкреатический проток,Панкреатична протока,Pancreatic duct,,размер,cm,numeric,2,linear,
+imaging.abd.spleen_length,imaging,"Селезёнка, длина","Селезінка, довжина",Spleen length,,размер,cm,numeric,1,linear,
+imaging.abd.spleen_thickness,imaging,"Селезёнка, толщина","Селезінка, товщина",Spleen thickness,,размер,cm,numeric,1,linear,
+imaging.abd.splenic_vein,imaging,"Селезёночная вена, диаметр","Селезінкова вена, діаметр",Splenic vein diameter,,размер,cm,numeric,1,linear,
+imaging.abd.kidney_r_length,imaging,"Правая почка, длина","Права нирка, довжина",Right kidney length,,размер,cm,numeric,1,linear,
+imaging.abd.kidney_r_width,imaging,"Правая почка, ширина","Права нирка, ширина",Right kidney width,,размер,cm,numeric,1,linear,
+imaging.abd.kidney_r_par,imaging,"Правая почка, паренхима","Права нирка, паренхіма",Right kidney parenchyma,,размер,cm,numeric,1,linear,
+imaging.abd.kidney_l_length,imaging,"Левая почка, длина","Ліва нирка, довжина",Left kidney length,,размер,cm,numeric,1,linear,
+imaging.abd.kidney_l_width,imaging,"Левая почка, ширина","Ліва нирка, ширина",Left kidney width,,размер,cm,numeric,1,linear,
+imaging.abd.kidney_l_par,imaging,"Левая почка, паренхима","Ліва нирка, паренхіма",Left kidney parenchyma,,размер,cm,numeric,1,linear,
+imaging.thyroid.vol_right,imaging,"Щитовидная, объём правой доли","Щитовидна, об'єм правої долі",Thyroid right lobe volume,,объём,mL,numeric,1,linear,
+imaging.thyroid.vol_left,imaging,"Щитовидная, объём левой доли","Щитовидна, об'єм лівої долі",Thyroid left lobe volume,,объём,mL,numeric,1,linear,
+imaging.thyroid.vol_total,imaging,"Щитовидная, общий объём","Щитовидна, загальний об'єм",Thyroid total volume,,объём,mL,numeric,1,linear,"Если в протоколе есть объёмы обеих долей, программа сама считает сумму"
+imaging.thyroid.isthmus,imaging,Перешеек щитовидной,Перешийок щитовидної,Thyroid isthmus,,размер,cm,numeric,2,linear,
+imaging.vessels.imt_r,imaging,КИМ ОСА справа,КІМ ЗСА праворуч,"CCA IMT, right",,размер,mm,numeric,2,linear,
+imaging.vessels.imt_l,imaging,КИМ ОСА слева,КІМ ЗСА ліворуч,"CCA IMT, left",,размер,mm,numeric,2,linear,
+imaging.vessels.va_d_r,imaging,"Позвоночная артерия справа, диаметр","Хребтова артерія праворуч, діаметр",Right vertebral artery diameter,,размер,mm,numeric,1,linear,"Единого критерия гипоплазии нет: обычно ≤2,0–2,5 мм или выраженная асимметрия"
+imaging.vessels.va_d_l,imaging,"Позвоночная артерия слева, диаметр","Хребтова артерія ліворуч, діаметр",Left vertebral artery diameter,,размер,mm,numeric,1,linear,"Единого критерия гипоплазии нет: обычно ≤2,0–2,5 мм или выраженная асимметрия"
+imaging.vessels.ijv_r,imaging,Яремная вена справа,Яремна вена праворуч,Right jugular vein,,размер,mm,numeric,0,linear,
+imaging.vessels.ijv_l,imaging,Яремная вена слева,Яремна вена ліворуч,Left jugular vein,,размер,mm,numeric,0,linear,
+imaging.vessels.cca_r_vps,imaging,ОСА справа: Vps (общая сонная артерия),ЗСА праворуч: Vps,CCA right: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.cca_r_ri,imaging,ОСА справа: RI (общая сонная артерия),ЗСА праворуч: RI,CCA right: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.cca_l_vps,imaging,ОСА слева: Vps (общая сонная артерия),ЗСА ліворуч: Vps,CCA left: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.cca_l_ri,imaging,ОСА слева: RI (общая сонная артерия),ЗСА ліворуч: RI,CCA left: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.eca_r_vps,imaging,НСА справа: Vps (наружная сонная артерия),ЗоСА праворуч: Vps,ECA right: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.eca_r_ri,imaging,НСА справа: RI (наружная сонная артерия),ЗоСА праворуч: RI,ECA right: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.eca_l_vps,imaging,НСА слева: Vps (наружная сонная артерия),ЗоСА ліворуч: Vps,ECA left: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.eca_l_ri,imaging,НСА слева: RI (наружная сонная артерия),ЗоСА ліворуч: RI,ECA left: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.ica_r_vps,imaging,ВСА справа: Vps (внутренняя сонная артерия),ВСА праворуч: Vps,ICA right: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.ica_r_ri,imaging,ВСА справа: RI (внутренняя сонная артерия),ВСА праворуч: RI,ICA right: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.ica_l_vps,imaging,ВСА слева: Vps (внутренняя сонная артерия),ВСА ліворуч: Vps,ICA left: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.ica_l_ri,imaging,ВСА слева: RI (внутренняя сонная артерия),ВСА ліворуч: RI,ICA left: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.va_r_vps,imaging,ПА справа: Vps (позвоночная артерия),ХА праворуч: Vps,VA right: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.va_r_ri,imaging,ПА справа: RI (позвоночная артерия),ХА праворуч: RI,VA right: resistive index,,индекс,,numeric,2,linear,
+imaging.vessels.va_l_vps,imaging,ПА слева: Vps (позвоночная артерия),ХА ліворуч: Vps,VA left: peak systolic velocity,,скорость,cm/s,numeric,0,linear,
+imaging.vessels.va_l_ri,imaging,ПА слева: RI (позвоночная артерия),ХА ліворуч: RI,VA left: resistive index,,индекс,,numeric,2,linear,
+blood.lipid.ldl,blood_venous,ЛПНП (холестерин липопротеинов низкой плотности),ЛПНЩ (холестерин ліпопротеїдів низької щільності),LDL cholesterol,"LDL-C, ЛПНП, ЛПНЩ",концентрация,mmol/L,numeric,2,linear,"Цели ESC/EAS 2019: <1,4 очень высокий риск; <1,8 высокий; <2,6 умеренный; <3,0 низкий"
+blood.lipid.hdl,blood_venous,ЛПВП (холестерин липопротеинов высокой плотности),ЛПВЩ (холестерин ліпопротеїдів високої щільності),HDL cholesterol,"HDL-C, ЛПВП, ЛПВЩ",концентрация,mmol/L,numeric,2,linear,
+blood.lipid.vldl,blood_venous,ЛПОНП,ЛПДНЩ,VLDL cholesterol,"VLDL-C, ЛПОНП, ЛПДНЩ",концентрация,mmol/L,numeric,2,linear,
+blood.lipid.nonhdl,blood_venous,Холестерин не-ЛПВП,Холестерин не-ЛПВЩ,Non-HDL cholesterol,non-HDL,концентрация,mmol/L,numeric,2,linear,"Цели ESC/EAS 2019: <2,2 очень высокий риск; <2,6 высокий; <3,4 умеренный; <3,8 низкий"
+blood.lipid.tg,blood_venous,Триглицериды,Тригліцериди,Triglycerides,"TG, ТГ",концентрация,mmol/L,numeric,2,linear,
+blood.lipid.tc_hdl,blood_venous,Отношение общий холестерин / ЛПВП,Співвідношення загальний холестерин / ЛПВЩ,Total cholesterol / HDL ratio,TC/HDL,отношение,,numeric,2,linear,Используется в шкале QRISK3; нормы как таковой нет
+blood.lipid.ka,blood_venous,Коэффициент атерогенности,Коефіцієнт атерогенності,Atherogenic index,КА,отношение,,numeric,2,linear,(ОХ − ЛПВП) / ЛПВП; единой нормы в рекомендациях нет
+blood.bio.crp,blood_venous,С-реактивный белок,С-реактивний білок,C-reactive protein,"CRP, СРБ",концентрация,mg/L,numeric,1,log,Пределы у лабораторий разные: чаще <5 или <10 мг/л
+blood.bio.cystatin,blood_venous,Цистатин C,Цистатин С,Cystatin C,CysC,концентрация,mg/L,numeric,2,linear,
+blood.bio.egfr,blood_venous,СКФ (скорость клубочковой фильтрации),ШКФ (швидкість клубочкової фільтрації),eGFR,"eGFR, СКФ, ШКФ",скорость,mL/min/1.73m2,numeric,0,linear,KDIGO: ≥90 норма; 60–89 незначно снижена; ниже 60 — хроническая болезнь почек при сохранении 3 месяца
+urine.bio.albumin,urine,Альбумин в моче,Альбумін у сечі,Urine albumin,ALB-U,концентрация,mg/L,numeric,1,linear,
+urine.bio.creat,urine,Креатинин в моче,Креатинін у сечі,Urine creatinine,CREA-U,концентрация,umol/L,numeric,0,linear,
+urine.bio.acr,urine,Отношение альбумин/креатинин в моче,Співвідношення альбумін/креатинін у сечі,Urine albumin-to-creatinine ratio,"ACR, АКС",отношение,mg/mmol,numeric,1,linear,<3 мг/ммоль (<30 мг/г) — норма; 3–30 — умеренно повышено; >30 — значительно (KDIGO)
+blood.coag.pt,blood_venous,Протромбиновое время,Протромбіновий час,Prothrombin time,"PT, ПВ, ПЧ",время,s,numeric,1,linear,Норма зависит от реагента лаборатории
+blood.coag.inr,blood_venous,МНО,МНВ,INR,"INR, МНО, МНВ",отношение,,numeric,2,linear,У принимающих варфарин целевой диапазон назначает врач (обычно 2–3)
+blood.coag.quick,blood_venous,Протромбин по Квику,Протромбін за Квіком,Quick prothrombin,Quick,доля,%,numeric,0,linear,Норма зависит от реагента лаборатории
+blood.coag.aptt,blood_venous,АЧТВ,АЧТЧ,aPTT,"APTT, АЧТВ, АЧТЧ",время,s,numeric,1,linear,Норма зависит от реагента лаборатории — берётся из бланка
+blood.coag.fibrinogen,blood_venous,Фибриноген,Фібриноген,Fibrinogen,FIB,концентрация,g/L,numeric,2,linear,Норма — из бланка
+blood.coag.ddimer,blood_venous,D-димер,D-димер,D-dimer,D-dimer,концентрация,ng/mL,numeric,0,log,Порог 500 нг/мл FEU; у пожилых иногда применяют возрастной порог (возраст × 10)
+blood.horm.psa_free,blood_venous,ПСА свободный,ПСА вільний,Free PSA,fPSA,концентрация,ng/mL,numeric,2,linear,Оценивают вместе с общим ПСА
+blood.horm.psa_ratio,blood_venous,Индекс ПСА свободный/общий,Індекс ПСА вільний/загальний,Free-to-total PSA ratio,f/t PSA,доля,%,numeric,0,linear,"Чем ниже доля свободного ПСА, тем выше настороженность; интерпретирует врач"
+blood.bio.amylase,blood_venous,Амилаза,Амілаза,Amylase,AMY,концентрация,U/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.bio.lipase,blood_venous,Липаза,Ліпаза,Lipase,LIP,концентрация,U/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.bio.ldh,blood_venous,ЛДГ (лактатдегидрогеназа),ЛДГ (лактатдегідрогеназа),LDH,"LDH, ЛДГ",концентрация,U/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.bio.ck,blood_venous,КФК (креатинкиназа),КФК (креатинкіназа),Creatine kinase,"CK, КФК",концентрация,U/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.elec.phos,blood_venous,Фосфор неорганический,Фосфор неорганічний,Phosphate,P,концентрация,mmol/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.elec.cl,blood_venous,Хлор,Хлор,Chloride,Cl,концентрация,mmol/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.elec.ca_total,blood_venous,Кальций общий,Кальцій загальний,Total calcium,Ca,концентрация,mmol/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.vit.folate,blood_venous,Фолиевая кислота,Фолієва кислота,Folate,FOL,концентрация,ng/mL,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.thyroid.ft3,blood_venous,Т3 свободный,Т3 вільний,Free T3,FT3,концентрация,pmol/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.thyroid.tt4,blood_venous,Т4 общий,Т4 загальний,Total T4,"TT4, tT4",концентрация,nmol/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.thyroid.atg,blood_venous,Антитела к тиреоглобулину,Антитіла до тиреоглобуліну,Anti-thyroglobulin antibodies,"АТТГ, anti-TG",концентрация,IU/mL,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.horm.cortisol,blood_venous,Кортизол,Кортизол,Cortisol,CORT,концентрация,nmol/L,numeric,2,linear,Норма берётся из бланка лаборатории
+blood.horm.estradiol,blood_venous,Эстрадиол,Естрадіол,Estradiol,E2,концентрация,pmol/L,numeric,2,linear,Норма берётся из бланка лаборатории

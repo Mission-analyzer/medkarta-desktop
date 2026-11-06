@@ -1,0 +1,450 @@
+﻿Написание в бланке,Материал,Единица-подсказка,key,Источник / примечание
+Лейкоцити (WBC),blood_venous,10^9/L,blood.cbc.wbc,"Сінево 2026; Діла, образец"
+Лейкоциты,blood_venous,,blood.cbc.wbc,общепринятое
+White blood cells,blood_venous,,blood.cbc.wbc,общепринятое
+Еритроцити (RBC),blood_venous,10^12/L,blood.cbc.rbc,"Сінево 2026; Діла, образец"
+Эритроциты,blood_venous,,blood.cbc.rbc,общепринятое
+Гемоглобін (HGB),blood_venous,g/L,blood.cbc.hgb,Сінево 2026
+Гемоглобін (Hgb),blood_venous,g/L,blood.cbc.hgb,"Діла, образец"
+Гемоглобин,blood_venous,,blood.cbc.hgb,общепринятое
+Гематокрит (НСТ),blood_venous,%,blood.cbc.hct,Сінево 2026 — «НСТ» набрано кириллицей
+Гематокрит (Ht),blood_venous,%,blood.cbc.hct,"Діла, образец"
+Середній об'єм еритроцита (MCV),blood_venous,fL,blood.cbc.mcv,Сінево 2026
+Середній об`єм еритроцитів (MCV),blood_venous,fL,blood.cbc.mcv,"Діла, образец — апостроф «`»"
+Средний объём эритроцита,blood_venous,,blood.cbc.mcv,общепринятое
+Середній вміст гемоглобіну в еритроциті (МСН),blood_venous,pg,blood.cbc.mch,Сінево 2026 — «МСН» кириллицей
+Середній вміст гемоглобіну в одному еритроциті (MCH),blood_venous,pg,blood.cbc.mch,"Діла, образец"
+Середня концентрація гемоглобіну в еритроциті (МСНС),blood_venous,g/dL,blood.cbc.mchc,"Сінево 2026 — «МСНС» кириллицей, г/дл"
+Середня концентрація гемоглобіну в еритроцитах (MCHC),blood_venous,g/L,blood.cbc.mchc,"Діла, образец, г/л"
+Ширина розподілення еритроцитів (RDW-CV),blood_venous,%,blood.cbc.rdw_cv,Сінево 2026
+Ширина розподілення еритроцитів по об`єму (коефіцієнт варіації) (RDW-CV),blood_venous,%,blood.cbc.rdw_cv,"Діла, образец"
+Ширина розподілення еритроцитів (RDW-SD),blood_venous,fL,blood.cbc.rdw_sd,Сінево 2026
+"Ширина розподілення еритроцитів по об'єму, (стандартне відхилення) (RDW-SD)",blood_venous,fL,blood.cbc.rdw_sd,"Діла, образец"
+Тромбоцити (PLT),blood_venous,10^9/L,blood.cbc.plt,"Сінево 2026; Діла, образец"
+Тромбоциты,blood_venous,,blood.cbc.plt,общепринятое
+Середній об'єм тромбоцитів (MPV),blood_venous,fL,blood.cbc.mpv,Сінево 2026
+Середній об`єм тромбоцитів (MPV),blood_venous,fL,blood.cbc.mpv,"Діла, образец"
+Ширина розподілення тромбоцитів за обсягами (PDW),blood_venous,fL,blood.cbc.pdw_fl,"Сінево 2026, фл"
+Ширина розподілення тромбоцитів по об`єму (PDW),blood_venous,%,blood.cbc.pdw_pct,"Діла, образец, %"
+Тромбокрит (РСТ),blood_venous,%,blood.cbc.pct,Сінево 2026 — «РСТ» кириллицей
+Тромбокрит (PCT),blood_venous,%,blood.cbc.pct,"Діла, образец"
+Нейтрофіли (на 100 лейкоцитів),blood_venous,%,blood.cbc.neut_pct,Сінево 2026
+Нейтрофіли (абс.),blood_venous,10^9/L,blood.cbc.neut_abs,Сінево 2026
+Загальні нейтрофіли (сегментоядерні та паличкоядерні) (Neu),blood_venous,%,blood.cbc.neut_pct,"Діла, образец — та же строка с Г/л = абс."
+Загальні нейтрофіли (сегментоядерні та паличкоядерні) (Neu),blood_venous,10^9/L,blood.cbc.neut_abs,"Діла, образец"
+Палочкоядерные,blood_venous,%,blood.cbc.band_pct,общепринятое
+Паличкоядерні,blood_venous,%,blood.cbc.band_pct,общепринятое
+Сегментоядерные,blood_venous,%,blood.cbc.seg_pct,общепринятое
+Сегментоядерні,blood_venous,%,blood.cbc.seg_pct,общепринятое
+Лімфоцити (на 100 лейкоцитів),blood_venous,%,blood.cbc.lymph_pct,Сінево 2026
+Лімфоцити (абс.),blood_venous,10^9/L,blood.cbc.lymph_abs,Сінево 2026
+Лімфоцити (LY),blood_venous,%,blood.cbc.lymph_pct,"Діла, образец"
+Лімфоцити (LY),blood_venous,10^9/L,blood.cbc.lymph_abs,"Діла, образец"
+Моноцити (на 100 лейкоцитів),blood_venous,%,blood.cbc.mono_pct,Сінево 2026
+Моноцити (абс.),blood_venous,10^9/L,blood.cbc.mono_abs,Сінево 2026
+Моноцити (Mon),blood_venous,%,blood.cbc.mono_pct,"Діла, образец"
+Моноцити (Mon),blood_venous,10^9/L,blood.cbc.mono_abs,"Діла, образец"
+Еозинофіли (на 100 лейкоцитів),blood_venous,%,blood.cbc.eos_pct,Сінево 2026
+Еозинофіли (абс.),blood_venous,10^9/L,blood.cbc.eos_abs,Сінево 2026
+Еозинофіли (Eo),blood_venous,%,blood.cbc.eos_pct,"Діла, образец"
+Еозинофіли (Eo),blood_venous,10^9/L,blood.cbc.eos_abs,"Діла, образец"
+Базофіли (на 100 лейкоцитів),blood_venous,%,blood.cbc.baso_pct,Сінево 2026
+Базофіли (абс.),blood_venous,10^9/L,blood.cbc.baso_abs,Сінево 2026
+Базофіли (Bas),blood_venous,%,blood.cbc.baso_pct,"Діла, образец"
+Базофіли (Bas),blood_venous,10^9/L,blood.cbc.baso_abs,"Діла, образец"
+Незрілі гранулоцити (на 100 лейкоцитів),blood_venous,%,blood.cbc.ig_pct,Сінево 2026
+Незрілі гранулоцити (абс.),blood_venous,10^9/L,blood.cbc.ig_abs,Сінево 2026
+Незрілі гранулоцити (IG),blood_venous,%,blood.cbc.ig_pct,"Діла, образец"
+Незрілі гранулоцити (IG),blood_venous,10^9/L,blood.cbc.ig_abs,"Діла, образец"
+Ядровмісні еритроцити (NRBC),blood_venous,%,blood.cbc.nrbc_pct,"Діла, образец"
+Ядровмісні еритроцити (NRBC),blood_venous,10^9/L,blood.cbc.nrbc_abs,"Діла, образец"
+Нейтрофільно-лімфоцитарне співвідношення (NLR),blood_venous,,blood.cbc.nlr,"Діла, образец"
+Низька щільність гемоглобіну (LHD),blood_venous,%,blood.cbc.lhd,"Діла, образец"
+Фактор мікроцитарної анемії (MaF),blood_venous,%,blood.cbc.maf,"Діла, образец"
+"Аналіз крові: Швидкість осідання еритроцитів (ШОЕ, ESR)",blood_venous,mm/h,blood.esr,Сінево 2026 — префикс «Аналіз крові:»
+Швидкість осідання еритроцитів (ESR),blood_venous,mm/h,blood.esr,"Діла, образец"
+СОЭ,blood_venous,,blood.esr,общепринятое
+Скорость оседания эритроцитов,blood_venous,,blood.esr,общепринятое
+Креатинін,blood_venous,,blood.bio.creat,"Сінево, бланк 2026"
+Креатинин,blood_venous,,blood.bio.creat,общепринятое
+Сечовина,blood_venous,,blood.bio.urea,"Сінево, бланк 2026"
+Мочевина,blood_venous,,blood.bio.urea,общепринятое
+Сечова кислота,blood_venous,,blood.bio.uric,"Сінево, бланк 2026"
+Мочевая кислота,blood_venous,,blood.bio.uric,общепринятое
+"Аланінамінотрансфераза (АЛТ, ALT)",blood_venous,,blood.bio.alt,"Сінево, бланк 2026; Діла"
+Аланінамінотрансфераза,blood_venous,,blood.bio.alt,"Сінево, бланк 2026, отчёт"
+Аланинаминотрансфераза,blood_venous,,blood.bio.alt,общепринятое
+"Аспартатамінотрансфераза (АСТ, AST)",blood_venous,,blood.bio.ast,"Сінево, бланк 2026"
+Аспартатамінотрансфераза,blood_venous,,blood.bio.ast,"Сінево, бланк 2026, отчёт"
+Аспартатаминотрансфераза,blood_venous,,blood.bio.ast,общепринятое
+"γ-глутаматтрансфераза (ГГТ, GGT)",blood_venous,,blood.bio.ggt,"Сінево, бланк 2026"
+Гама-глутаматтрансфераза,blood_venous,,blood.bio.ggt,"Сінево, бланк 2026, отчёт"
+Гамма-глутамилтрансфераза,blood_venous,,blood.bio.ggt,общепринятое
+Гамма-глутамилтранспептидаза,blood_venous,,blood.bio.ggt,общепринятое
+"Лужна фосфатаза (ЛФ, ALP)",blood_venous,,blood.bio.alp,"Сінево, бланк 2026"
+Лужна фосфатаза,blood_venous,,blood.bio.alp,"Сінево, бланк 2026, отчёт"
+Щелочная фосфатаза,blood_venous,,blood.bio.alp,общепринятое
+Білірубін загальний,blood_venous,,blood.bio.bil_total,"Сінево, бланк 2026"
+Загальний білірубін,blood_venous,,blood.bio.bil_total,"Сінево, бланк 2026, отчёт"
+Билирубин общий,blood_venous,,blood.bio.bil_total,общепринятое
+Білірубін прямий,blood_venous,,blood.bio.bil_direct,"Сінево, бланк 2026"
+Прямий білірубін,blood_venous,,blood.bio.bil_direct,"Сінево, бланк 2026, отчёт"
+Билирубин прямой,blood_venous,,blood.bio.bil_direct,общепринятое
+Білірубін непрямий,blood_venous,,blood.bio.bil_indirect,"Сінево, бланк 2026"
+Билирубин непрямой,blood_venous,,blood.bio.bil_indirect,общепринятое
+Білок загальний,blood_venous,,blood.bio.protein,"Сінево, бланк 2026"
+Загальний білок,blood_venous,,blood.bio.protein,"Сінево, бланк 2026, отчёт"
+Общий белок,blood_venous,,blood.bio.protein,общепринятое
+Альбумін,blood_venous,,blood.bio.albumin,"Сінево, бланк 2026"
+Альбумин,blood_venous,,blood.bio.albumin,общепринятое
+Глюкоза,blood_venous,,blood.bio.glucose,общепринятое
+Тиреотропний гормон (ТТГ)/TSH,blood_venous,,blood.thyroid.tsh,CSD — аббревиатура через «/»
+Тиреотропний гормон (ТТГ),blood_venous,,blood.thyroid.tsh,общепринятое
+Тиреотропный гормон,blood_venous,,blood.thyroid.tsh,общепринятое
+Тироксин вільний (T4 вільний)/tT4,blood_venous,,blood.thyroid.ft4,"CSD — аббревиатура tT4 ошибочна, решает название"
+Тироксин вільний,blood_venous,,blood.thyroid.ft4,общепринятое
+Тироксин свободный,blood_venous,,blood.thyroid.ft4,общепринятое
+Т4 вільний,blood_venous,,blood.thyroid.ft4,общепринятое
+Т4 свободный,blood_venous,,blood.thyroid.ft4,общепринятое
+Фізико-хімічні властивості: Колір,urine,,urine.oam.color,"Сінево, бланк 2026"
+Цвет,urine,,urine.oam.color,общепринятое
+Фізико-хімічні властивості: Прозорість,urine,,urine.oam.clarity,"Сінево, бланк 2026"
+Прозрачность,urine,,urine.oam.clarity,общепринятое
+Фізико-хімічні властивості: Відносна щільність,urine,g/mL,urine.oam.sg,"Сінево, бланк 2026"
+Относительная плотность,urine,g/mL,urine.oam.sg,общепринятое
+Фізико-хімічні властивості: pH,urine,,urine.oam.ph,"Сінево, бланк 2026"
+pH мочи,urine,,urine.oam.ph,общепринятое
+Фізико-хімічні властивості: Білок,urine,g/L,urine.oam.protein,"Сінево, бланк 2026"
+Белок в моче,urine,g/L,urine.oam.protein,общепринятое
+Фізико-хімічні властивості: Глюкоза,urine,mmol/L,urine.oam.glucose,"Сінево, бланк 2026"
+Глюкоза в моче,urine,mmol/L,urine.oam.glucose,общепринятое
+Фізико-хімічні властивості: Кетони,urine,mmol/L,urine.oam.ketones,"Сінево, бланк 2026"
+Кетоны,urine,mmol/L,urine.oam.ketones,общепринятое
+Фізико-хімічні властивості: Білірубін,urine,umol/L,urine.oam.bilirubin,"Сінево, бланк 2026"
+Билирубин в моче,urine,umol/L,urine.oam.bilirubin,общепринятое
+Фізико-хімічні властивості: Уробіліноген,urine,umol/L,urine.oam.urobilinogen,"Сінево, бланк 2026"
+Уробилиноген,urine,umol/L,urine.oam.urobilinogen,общепринятое
+Фізико-хімічні властивості: Нітрити,urine,,urine.oam.nitrite,"Сінево, бланк 2026"
+Фізико-хімічні властивості: Hітрити,urine,,urine.oam.nitrite,"Сінево, бланк 2026 — «H» латиницей"
+Нитриты,urine,,urine.oam.nitrite,общепринятое
+Фізико-хімічні властивості: Еритроцити,urine,cells/uL,urine.oam.rbc_strip,"Сінево, бланк 2026"
+Эритроциты (тест-полоска),urine,cells/uL,urine.oam.rbc_strip,общепринятое
+Фізико-хімічні властивості: Гемоглобін,urine,mg/dL,urine.oam.hb_strip,"Сінево, бланк 2026"
+Гемоглобин (тест-полоска),urine,mg/dL,urine.oam.hb_strip,общепринятое
+Фізико-хімічні властивості: Лейкоцити,urine,cells/uL,urine.oam.wbc_strip,"Сінево, бланк 2026"
+Лейкоциты (тест-полоска),urine,cells/uL,urine.oam.wbc_strip,общепринятое
+Мікроскопія осаду сечі: Еритроцити,urine,/uL,urine.oam.rbc,"Сінево, бланк 2026"
+Эритроциты (микроскопия),urine,/uL,urine.oam.rbc,общепринятое
+Мікроскопія осаду сечі: Нелізовані еритроцити,urine,/uL,urine.oam.rbc_nonlysed,"Сінево, бланк 2026"
+Нелизированные эритроциты,urine,/uL,urine.oam.rbc_nonlysed,общепринятое
+Мікроскопія осаду сечі: Лейкоцити,urine,/uL,urine.oam.wbc,"Сінево, бланк 2026"
+Лейкоциты (микроскопия),urine,/uL,urine.oam.wbc,общепринятое
+Мікроскопія осаду сечі: Лейкоцити (згустки),urine,/uL,urine.oam.wbc_clumps,"Сінево, бланк 2026"
+Лейкоциты (скопления),urine,/uL,urine.oam.wbc_clumps,общепринятое
+Мікроскопія осаду сечі: Епітелій (загальний),urine,/uL,urine.oam.epi,"Сінево, бланк 2026"
+Эпителий общий,urine,/uL,urine.oam.epi,общепринятое
+Мікроскопія осаду сечі: Плаский епітелій,urine,/uL,urine.oam.epi_squamous,"Сінево, бланк 2026"
+Плоский эпителий,urine,/uL,urine.oam.epi_squamous,общепринятое
+Мікроскопія осаду сечі: Неплаский епітелій,urine,/uL,urine.oam.epi_nonsquamous,"Сінево, бланк 2026"
+Неплоский эпителий,urine,/uL,urine.oam.epi_nonsquamous,общепринятое
+Мікроскопія осаду сечі: Перехідний епітелій,urine,/uL,urine.oam.epi_transitional,"Сінево, бланк 2026"
+Переходный эпителий,urine,/uL,urine.oam.epi_transitional,общепринятое
+Мікроскопія осаду сечі: Нирковий епітелій,urine,/uL,urine.oam.epi_renal,"Сінево, бланк 2026"
+Почечный эпителий,urine,/uL,urine.oam.epi_renal,общепринятое
+Мікроскопія осаду сечі: Циліндри (загальні),urine,/uL,urine.oam.casts,"Сінево, бланк 2026"
+Цилиндры общие,urine,/uL,urine.oam.casts,общепринятое
+Мікроскопія осаду сечі: Циліндри (гіалінові),urine,/uL,urine.oam.casts_hyaline,"Сінево, бланк 2026"
+Цилиндры гиалиновые,urine,/uL,urine.oam.casts_hyaline,общепринятое
+Мікроскопія осаду сечі: Циліндри (епітеліальні),urine,/uL,urine.oam.casts_epithelial,"Сінево, бланк 2026"
+Цилиндры эпителиальные,urine,/uL,urine.oam.casts_epithelial,общепринятое
+Мікроскопія осаду сечі: Циліндри (зернисті),urine,/uL,urine.oam.casts_granular,"Сінево, бланк 2026"
+Цилиндры зернистые,urine,/uL,urine.oam.casts_granular,общепринятое
+Мікроскопія осаду сечі: Циліндри (воскоподібні),urine,/uL,urine.oam.casts_waxy,"Сінево, бланк 2026"
+Цилиндры восковидные,urine,/uL,urine.oam.casts_waxy,общепринятое
+Мікроскопія осаду сечі: Циліндри (еритроцитарні),urine,/uL,urine.oam.casts_rbc,"Сінево, бланк 2026"
+Цилиндры эритроцитарные,urine,/uL,urine.oam.casts_rbc,общепринятое
+Мікроскопія осаду сечі: Циліндри (лейкоцитарні),urine,/uL,urine.oam.casts_wbc,"Сінево, бланк 2026"
+Цилиндры лейкоцитарные,urine,/uL,urine.oam.casts_wbc,общепринятое
+Мікроскопія осаду сечі: Кристали (загальні),urine,/uL,urine.oam.crystals,"Сінево, бланк 2026"
+Кристаллы общие,urine,/uL,urine.oam.crystals,общепринятое
+Мікроскопія осаду сечі: Кристали (оксалату кальцію),urine,/uL,urine.oam.cr_oxalate,"Сінево, бланк 2026"
+Кристаллы оксалата кальция,urine,/uL,urine.oam.cr_oxalate,общепринятое
+Мікроскопія осаду сечі: Кристали (трипельфосфатів),urine,/uL,urine.oam.cr_triple,"Сінево, бланк 2026"
+Кристаллы трипельфосфатов,urine,/uL,urine.oam.cr_triple,общепринятое
+Мікроскопія осаду сечі: Кристали (сечової кислоти),urine,/uL,urine.oam.cr_uric,"Сінево, бланк 2026"
+Кристаллы мочевой кислоты,urine,/uL,urine.oam.cr_uric,общепринятое
+Мікроскопія осаду сечі: Кристали (фосфорнокислого вапна),urine,/uL,urine.oam.cr_phoslime,"Сінево, бланк 2026"
+Кристаллы фосфорнокислой извести,urine,/uL,urine.oam.cr_phoslime,общепринятое
+Мікроскопія осаду сечі: Кристали (біурата амонію),urine,/uL,urine.oam.cr_biurate,"Сінево, бланк 2026"
+Кристаллы биурата аммония,urine,/uL,urine.oam.cr_biurate,общепринятое
+Мікроскопія осаду сечі: Кристали (білірубіну),urine,/uL,urine.oam.cr_bilirubin,"Сінево, бланк 2026"
+Кристаллы билирубина,urine,/uL,urine.oam.cr_bilirubin,общепринятое
+Мікроскопія осаду сечі: Кристали (карбонату кальцію),urine,/uL,urine.oam.cr_carbonate,"Сінево, бланк 2026"
+Кристаллы карбоната кальция,urine,/uL,urine.oam.cr_carbonate,общепринятое
+Мікроскопія осаду сечі: Кристали (фосфату кальцію),urine,/uL,urine.oam.cr_phosphate,"Сінево, бланк 2026"
+Кристаллы фосфата кальция,urine,/uL,urine.oam.cr_phosphate,общепринятое
+Мікроскопія осаду сечі: Аморфні фосфати,urine,/uL,urine.oam.amorph_phos,"Сінево, бланк 2026"
+Аморфные фосфаты,urine,/uL,urine.oam.amorph_phos,общепринятое
+Мікроскопія осаду сечі: Аморфні урати,urine,/uL,urine.oam.amorph_urates,"Сінево, бланк 2026"
+Аморфные ураты,urine,/uL,urine.oam.amorph_urates,общепринятое
+Мікроскопія осаду сечі: Слиз,urine,/uL,urine.oam.mucus,"Сінево, бланк 2026"
+Слизь,urine,/uL,urine.oam.mucus,общепринятое
+Мікроскопія осаду сечі: Бактерії,urine,/uL,urine.oam.bacteria,"Сінево, бланк 2026"
+Бактерии,urine,/uL,urine.oam.bacteria,общепринятое
+Мікроскопія осаду сечі: Бактерії (диференціювання),urine,,urine.oam.bacteria_diff,"Сінево, бланк 2026"
+Бактерии (дифференцировка),urine,,urine.oam.bacteria_diff,общепринятое
+Мікроскопія осаду сечі: Дріжджеподібні гриби,urine,/uL,urine.oam.yeast,"Сінево, бланк 2026"
+Дрожжеподобные грибы,urine,/uL,urine.oam.yeast,общепринятое
+Мікроскопія осаду сечі: Трихомонади,urine,/hpf,urine.oam.trichomonas,"Сінево, бланк 2026"
+Трихомонады,urine,/hpf,urine.oam.trichomonas,общепринятое
+Мікроскопія осаду сечі: Сперматозоїди,urine,/uL,urine.oam.sperm,"Сінево, бланк 2026"
+Сперматозоиды,urine,/uL,urine.oam.sperm,общепринятое
+Мікроскопія осаду сечі: Атипові клітини,urine,/uL,urine.oam.atypical,"Сінево, бланк 2026"
+Атипичные клетки,urine,/uL,urine.oam.atypical,общепринятое
+Форма,stool,,stool.copro.form,"Сінево, бланк 2025"
+Форма кала,stool,,stool.copro.form,общепринятое
+Консистенція,stool,,stool.copro.consistency,"Сінево, бланк 2025"
+Консистенция,stool,,stool.copro.consistency,общепринятое
+Колір калових мас,stool,,stool.copro.color,"Сінево, бланк 2025"
+Цвет кала,stool,,stool.copro.color,общепринятое
+Запах,stool,,stool.copro.odor,"Сінево, бланк 2025"
+Реакція,stool,,stool.copro.reaction,"Сінево, бланк 2025"
+Реакция,stool,,stool.copro.reaction,общепринятое
+pH,stool,,stool.copro.ph,"Сінево, бланк 2025"
+pH кала,stool,,stool.copro.ph,общепринятое
+Сполучна тканина,stool,,stool.copro.connective,"Сінево, бланк 2025"
+Соединительная ткань,stool,,stool.copro.connective,общепринятое
+М'язові волокна неперетравлені,stool,,stool.copro.muscle_undig,"Сінево, бланк 2025"
+Мышечные волокна непереваренные,stool,,stool.copro.muscle_undig,общепринятое
+М'язові волокна перетравлені,stool,,stool.copro.muscle_dig,"Сінево, бланк 2025"
+Мышечные волокна переваренные,stool,,stool.copro.muscle_dig,общепринятое
+Смугастість м'язових волокон,stool,,stool.copro.muscle_striation,"Сінево, бланк 2025"
+Исчерченность мышечных волокон,stool,,stool.copro.muscle_striation,общепринятое
+Нейтральний жир,stool,,stool.copro.neutral_fat,"Сінево, бланк 2025"
+Нейтральный жир,stool,,stool.copro.neutral_fat,общепринятое
+Жирні кислоти,stool,,stool.copro.fatty_acids,"Сінево, бланк 2025"
+Жирные кислоты,stool,,stool.copro.fatty_acids,общепринятое
+Неперетравлена клітковина,stool,,stool.copro.fiber_undig,"Сінево, бланк 2025"
+Неперевариваемая клетчатка,stool,,stool.copro.fiber_undig,общепринятое
+Мила,stool,,stool.copro.soaps,"Сінево, бланк 2025"
+Мыла,stool,,stool.copro.soaps,общепринятое
+Перетравлена клітковина,stool,,stool.copro.fiber_dig,"Сінево, бланк 2025"
+Перевариваемая клетчатка,stool,,stool.copro.fiber_dig,общепринятое
+Крохмальні зерна позаклітинні,stool,,stool.copro.starch_extra,"Сінево, бланк 2025"
+Крахмальные зёрна внеклеточные,stool,,stool.copro.starch_extra,общепринятое
+Крохмальні зерна внутрішньоклітинні,stool,,stool.copro.starch_intra,"Сінево, бланк 2025"
+Крахмальные зёрна внутриклеточные,stool,,stool.copro.starch_intra,общепринятое
+Йодофільні бактерії,stool,,stool.copro.iodophilic,"Сінево, бланк 2025"
+Йодофильные бактерии,stool,,stool.copro.iodophilic,общепринятое
+Слиз,stool,,stool.copro.mucus,"Сінево, бланк 2025"
+Слизь,stool,,stool.copro.mucus,общепринятое
+Лейкоцити (копрограма),stool,,stool.copro.wbc,"Сінево, бланк 2025"
+Лейкоциты в кале,stool,,stool.copro.wbc,общепринятое
+Еритроцити (копрограма),stool,,stool.copro.rbc,"Сінево, бланк 2025"
+Эритроциты в кале,stool,,stool.copro.rbc,общепринятое
+Епітелій,stool,,stool.copro.epithelium,"Сінево, бланк 2025"
+Эпителий,stool,,stool.copro.epithelium,общепринятое
+Найпростіші (цисти лямблій),stool,,stool.copro.protozoa,"Сінево, бланк 2025"
+Простейшие (цисты лямблий),stool,,stool.copro.protozoa,общепринятое
+Дріжджовий грибок,stool,,stool.copro.yeast,"Сінево, бланк 2025"
+Дрожжевые грибы,stool,,stool.copro.yeast,общепринятое
+Яйця гельмінтів,stool,,stool.copro.helminth_eggs,"Сінево, бланк 2025"
+Яйца гельминтов,stool,,stool.copro.helminth_eggs,общепринятое
+Кристали,stool,,stool.copro.crystals,"Сінево, бланк 2025"
+Кристаллы,stool,,stool.copro.crystals,общепринятое
+Калій,blood_venous,,blood.elec.k,"Діла, образец бланка (муж., 2025)"
+Калий,blood_venous,,blood.elec.k,общепринятое
+Натрій,blood_venous,,blood.elec.na,"Діла, образец бланка (муж., 2025)"
+Натрий,blood_venous,,blood.elec.na,общепринятое
+Магній,blood_venous,,blood.elec.mg,"Діла, образец бланка (муж., 2025)"
+Магний,blood_venous,,blood.elec.mg,общепринятое
+Кальцій іонізований,blood_venous,,blood.elec.ca_ion,"Діла, образец бланка (муж., 2025)"
+Кальций ионизированный,blood_venous,,blood.elec.ca_ion,общепринятое
+Залізо,blood_venous,,blood.iron.fe,"Діла, образец бланка (муж., 2025)"
+Железо,blood_venous,,blood.iron.fe,общепринятое
+Железо сывороточное,blood_venous,,blood.iron.fe,общепринятое
+Феритин,blood_venous,,blood.iron.ferritin,"Діла, образец бланка (муж., 2025)"
+Ферритин,blood_venous,,blood.iron.ferritin,общепринятое
+"Вітамін В12 (ціанокобаламін, vitamin B12, cyanocobalamin), біотин-незалежний, кількісний",blood_venous,,blood.vit.b12,"Діла, образец бланка (муж., 2025)"
+Вітамін В12,blood_venous,,blood.vit.b12,общепринятое
+Витамин B12,blood_venous,,blood.vit.b12,общепринятое
+25-гідроксивітамін Д,blood_venous,,blood.vit.d25,"Діла, образец бланка (муж., 2025)"
+25-гидроксивитамин D,blood_venous,,blood.vit.d25,общепринятое
+Вітамін D,blood_venous,,blood.vit.d25,общепринятое
+Витамин D,blood_venous,,blood.vit.d25,общепринятое
+"Загальний холестерин (ЗХ, Total cholesterol , TC)",blood_venous,,blood.lipid.chol,"Діла, образец бланка (муж., 2025)"
+Загальний холестерин,blood_venous,,blood.lipid.chol,общепринятое
+Холестерин общий,blood_venous,,blood.lipid.chol,общепринятое
+Глікований гемоглобін (HbA1c),blood_venous,,blood.carb.hba1c,"Діла, образец бланка 2025"
+Гликированный гемоглобин,blood_venous,,blood.carb.hba1c,общепринятое
+Інсулін,blood_venous,,blood.carb.insulin,"Діла, образец бланка (муж., 2025)"
+Инсулин,blood_venous,,blood.carb.insulin,общепринятое
+"Індекс HOMA (глюкоза (венозна кров) х Інсулін/22,5)",blood_venous,,blood.carb.homa,"Діла, образец бланка (муж., 2025)"
+Індекс HOMA,blood_venous,,blood.carb.homa,общепринятое
+Индекс HOMA,blood_venous,,blood.carb.homa,общепринятое
+Гомоцистеїн,blood_venous,,blood.bio.homocysteine,"Діла, образец бланка (жен., 2025)"
+Гомоцистеин,blood_venous,,blood.bio.homocysteine,общепринятое
+Антитіла до тиреопероксидази (АТПО),blood_venous,,blood.thyroid.atpo,"Діла, образец бланка (муж., 2025)"
+Антитела к тиреопероксидазе,blood_venous,,blood.thyroid.atpo,общепринятое
+Простат-специфічний антиген загальний,blood_venous,,blood.horm.psa,"Діла, образец бланка (муж., 2025)"
+ПСА общий,blood_venous,,blood.horm.psa,общепринятое
+Тестостерон загальний,blood_venous,,blood.horm.testo,"Діла, образец бланка (муж., 2025)"
+Тестостерон общий,blood_venous,,blood.horm.testo,общепринятое
+Тестостерон вільний,blood_venous,,blood.horm.testo_free,"Діла, образец бланка (муж., 2025)"
+Тестостерон свободный,blood_venous,,blood.horm.testo_free,общепринятое
+Фолікулостимулюючий гормон,blood_venous,,blood.horm.fsh,"Діла, образец бланка (муж., 2025)"
+Фолликулостимулирующий гормон,blood_venous,,blood.horm.fsh,общепринятое
+Лютеїнізуючий гормон,blood_venous,,blood.horm.lh,"Діла, образец бланка (муж., 2025)"
+Лютеинизирующий гормон,blood_venous,,blood.horm.lh,общепринятое
+Пролактин,blood_venous,,blood.horm.prolactin,"Діла, образец бланка (муж., 2025)"
+Глюкоза (кількісний),blood_venous,,blood.bio.glucose,"Діла, образец бланка (муж., 2025)"
+Білірубін загальний (tBIL),blood_venous,,blood.bio.bil_total,"Діла, образец бланка (муж., 2025)"
+"Тиреотропний гормон (ТТГ). Високочутлива, біотин-незалежна методика",blood_venous,,blood.thyroid.tsh,"Діла, образец бланка (муж., 2025)"
+Тироксин вільний (Т4 вільний),blood_venous,,blood.thyroid.ft4,"Діла, образец бланка (муж., 2025)"
+Печінка: розмір,imaging,,imaging.abd.liver,протоколы УЗИ пользователя
+Печень: размер,imaging,,imaging.abd.liver,протоколы УЗИ пользователя
+d. ворітної вени,imaging,,imaging.abd.portal_vein,протоколы УЗИ пользователя
+Ворітна вена,imaging,,imaging.abd.portal_vein,протоколы УЗИ пользователя
+Воротная вена,imaging,,imaging.abd.portal_vein,протоколы УЗИ пользователя
+Жовчний міхур: довжина,imaging,,imaging.abd.gb_length,протоколы УЗИ пользователя
+Желчный пузырь: длина,imaging,,imaging.abd.gb_length,протоколы УЗИ пользователя
+Жовчний міхур: ширина,imaging,,imaging.abd.gb_width,протоколы УЗИ пользователя
+Желчный пузырь: ширина,imaging,,imaging.abd.gb_width,протоколы УЗИ пользователя
+Холедох,imaging,,imaging.abd.cbd,протоколы УЗИ пользователя
+Підшлункова залоза: головка,imaging,,imaging.abd.panc_head,протоколы УЗИ пользователя
+Поджелудочная железа: головка,imaging,,imaging.abd.panc_head,протоколы УЗИ пользователя
+Підшлункова залоза: тіло,imaging,,imaging.abd.panc_body,протоколы УЗИ пользователя
+Поджелудочная железа: тело,imaging,,imaging.abd.panc_body,протоколы УЗИ пользователя
+Підшлункова залоза: хвіст,imaging,,imaging.abd.panc_tail,протоколы УЗИ пользователя
+Поджелудочная железа: хвост,imaging,,imaging.abd.panc_tail,протоколы УЗИ пользователя
+Панкреатична протока,imaging,,imaging.abd.panc_duct,протоколы УЗИ пользователя
+Панкреатический проток,imaging,,imaging.abd.panc_duct,протоколы УЗИ пользователя
+Селезінка: довжина,imaging,,imaging.abd.spleen_length,протоколы УЗИ пользователя
+Селезенка: длина,imaging,,imaging.abd.spleen_length,протоколы УЗИ пользователя
+Селезінка: товщина,imaging,,imaging.abd.spleen_thickness,протоколы УЗИ пользователя
+Селезенка: толщина,imaging,,imaging.abd.spleen_thickness,протоколы УЗИ пользователя
+d. селезінкової вени,imaging,,imaging.abd.splenic_vein,протоколы УЗИ пользователя
+Селезеночная вена,imaging,,imaging.abd.splenic_vein,протоколы УЗИ пользователя
+Права нирка: довжина,imaging,,imaging.abd.kidney_r_length,протоколы УЗИ пользователя
+Правая почка: длина,imaging,,imaging.abd.kidney_r_length,протоколы УЗИ пользователя
+Права нирка: ширина,imaging,,imaging.abd.kidney_r_width,протоколы УЗИ пользователя
+Правая почка: ширина,imaging,,imaging.abd.kidney_r_width,протоколы УЗИ пользователя
+Права нирка: паренхіма,imaging,,imaging.abd.kidney_r_par,протоколы УЗИ пользователя
+Правая почка: паренхима,imaging,,imaging.abd.kidney_r_par,протоколы УЗИ пользователя
+Ліва нирка: довжина,imaging,,imaging.abd.kidney_l_length,протоколы УЗИ пользователя
+Левая почка: длина,imaging,,imaging.abd.kidney_l_length,протоколы УЗИ пользователя
+Ліва нирка: ширина,imaging,,imaging.abd.kidney_l_width,протоколы УЗИ пользователя
+Левая почка: ширина,imaging,,imaging.abd.kidney_l_width,протоколы УЗИ пользователя
+Ліва нирка: паренхіма,imaging,,imaging.abd.kidney_l_par,протоколы УЗИ пользователя
+Левая почка: паренхима,imaging,,imaging.abd.kidney_l_par,протоколы УЗИ пользователя
+Права доля: об'єм (по Брауну),imaging,,imaging.thyroid.vol_right,протоколы УЗИ пользователя
+Правая доля: объём,imaging,,imaging.thyroid.vol_right,протоколы УЗИ пользователя
+Ліва доля: об'єм (по Брауну),imaging,,imaging.thyroid.vol_left,протоколы УЗИ пользователя
+Левая доля: объём,imaging,,imaging.thyroid.vol_left,протоколы УЗИ пользователя
+Загальний об'єм щитовидної залози,imaging,,imaging.thyroid.vol_total,протоколы УЗИ пользователя
+Общий объём щитовидной железы,imaging,,imaging.thyroid.vol_total,общепринятое
+Загальний об'єм (розрахунок програми),imaging,,imaging.thyroid.vol_total,протоколы УЗИ пользователя
+Перешийок,imaging,,imaging.thyroid.isthmus,протоколы УЗИ пользователя
+Перешеек,imaging,,imaging.thyroid.isthmus,протоколы УЗИ пользователя
+КІМ ЗСА праворуч,imaging,,imaging.vessels.imt_r,протоколы УЗИ пользователя
+КИМ ОСА справа,imaging,,imaging.vessels.imt_r,протоколы УЗИ пользователя
+КІМ ЗСА ліворуч,imaging,,imaging.vessels.imt_l,протоколы УЗИ пользователя
+КИМ ОСА слева,imaging,,imaging.vessels.imt_l,протоколы УЗИ пользователя
+Діаметр ХА праворуч,imaging,,imaging.vessels.va_d_r,общепринятое
+Діаметр ХА ліворуч,imaging,,imaging.vessels.va_d_l,общепринятое
+ЯВ праворуч,imaging,,imaging.vessels.ijv_r,протоколы УЗИ пользователя
+ЯВ ліворуч,imaging,,imaging.vessels.ijv_l,протоколы УЗИ пользователя
+ЗСА праворуч: Vps,imaging,,imaging.vessels.cca_r_vps,протоколы УЗИ пользователя
+ЗСА праворуч: RI,imaging,,imaging.vessels.cca_r_ri,протоколы УЗИ пользователя
+ЗСА ліворуч: Vps,imaging,,imaging.vessels.cca_l_vps,протоколы УЗИ пользователя
+ЗСА ліворуч: RI,imaging,,imaging.vessels.cca_l_ri,протоколы УЗИ пользователя
+ЗоСА праворуч: Vps,imaging,,imaging.vessels.eca_r_vps,протоколы УЗИ пользователя
+ЗоСА праворуч: RI,imaging,,imaging.vessels.eca_r_ri,протоколы УЗИ пользователя
+ЗоСА ліворуч: Vps,imaging,,imaging.vessels.eca_l_vps,протоколы УЗИ пользователя
+ЗоСА ліворуч: RI,imaging,,imaging.vessels.eca_l_ri,протоколы УЗИ пользователя
+ВСА праворуч: Vps,imaging,,imaging.vessels.ica_r_vps,протоколы УЗИ пользователя
+ВСА праворуч: RI,imaging,,imaging.vessels.ica_r_ri,протоколы УЗИ пользователя
+ВСА ліворуч: Vps,imaging,,imaging.vessels.ica_l_vps,протоколы УЗИ пользователя
+ВСА ліворуч: RI,imaging,,imaging.vessels.ica_l_ri,протоколы УЗИ пользователя
+ХА праворуч: Vps,imaging,,imaging.vessels.va_r_vps,протоколы УЗИ пользователя
+ХА праворуч: RI,imaging,,imaging.vessels.va_r_ri,протоколы УЗИ пользователя
+ХА ліворуч: Vps,imaging,,imaging.vessels.va_l_vps,протоколы УЗИ пользователя
+ХА ліворуч: RI,imaging,,imaging.vessels.va_l_ri,протоколы УЗИ пользователя
+"Холестерин ліпопротеїдів низької щільності (ХС ЛПНЩ), Low-density lipoprotein cholesterol, LDL-C)",blood_venous,,blood.lipid.ldl,"Діла, образці бланків 2024–2025"
+Холестерин ЛПНЩ,blood_venous,,blood.lipid.ldl,общепринятое
+ЛПНП,blood_venous,,blood.lipid.ldl,общепринятое
+Холестерин ЛПНП,blood_venous,,blood.lipid.ldl,общепринятое
+"Холестерин ліпопротеїдів високої щільності (ХС ЛПВЩ, High-density lipoprotein cholesterol, HDL-C)",blood_venous,,blood.lipid.hdl,"Діла, образці бланків 2024–2025"
+Холестерин ЛПВЩ,blood_venous,,blood.lipid.hdl,общепринятое
+ЛПВП,blood_venous,,blood.lipid.hdl,общепринятое
+Холестерин ЛПВП,blood_venous,,blood.lipid.hdl,общепринятое
+"Холестерин ліпопротеїдів дуже низької щільності (ЛПДНЩ, Very low-density lipoprotein chol., VLDL-C)",blood_venous,,blood.lipid.vldl,"Діла, образці бланків 2024–2025"
+ЛПОНП,blood_venous,,blood.lipid.vldl,общепринятое
+Холестерин не-ліпопротеїдів високої щільності (ХС не-ЛПВЩ),blood_venous,,blood.lipid.nonhdl,"Діла, образці бланків 2024–2025"
+Холестерин не-ЛПВП,blood_venous,,blood.lipid.nonhdl,общепринятое
+"Тригліцеріди (ТГ, Triglycerides, TGs)",blood_venous,,blood.lipid.tg,"Діла, образці бланків 2024–2025 — так в бланке, «Тригліцеріди»"
+Тригліцериди,blood_venous,,blood.lipid.tg,общепринятое
+Триглицериды,blood_venous,,blood.lipid.tg,общепринятое
+Співвідношення Загальний холестерин/Холестерин ліпопротеїдів високої щільності,blood_venous,,blood.lipid.tc_hdl,"Діла, образці бланків 2024–2025"
+Коефіцієнт атерогенності,blood_venous,,blood.lipid.ka,общепринятое
+Коэффициент атерогенности,blood_venous,,blood.lipid.ka,общепринятое
+С-реактивний білок (СРБ) - кількісний,blood_venous,,blood.bio.crp,"Діла, образці бланків 2024–2025"
+С-реактивний білок,blood_venous,,blood.bio.crp,общепринятое
+С-реактивный белок,blood_venous,,blood.bio.crp,общепринятое
+Цистатин С,blood_venous,,blood.bio.cystatin,"Діла, образці бланків 2024–2025"
+Цистатин C,blood_venous,,blood.bio.cystatin,общепринятое
+Швидкість клубочкової фільтрації,blood_venous,,blood.bio.egfr,"Діла, образці бланків 2024–2025"
+Скорость клубочковой фильтрации,blood_venous,,blood.bio.egfr,общепринятое
+Альбумін у сечі,urine,,urine.bio.albumin,"Діла, образці бланків 2024–2025"
+Креатинін в сечі,urine,,urine.bio.creat,"Діла, образці бланків 2024–2025"
+Креатинін у сечі,urine,,urine.bio.creat,общепринятое
+Спiввiдношення альбуміну до креатиніну в сечі,urine,,urine.bio.acr,"Діла, образці бланків 2024–2025 — «i» латиницей"
+Співвідношення альбуміну до креатиніну в сечі,urine,,urine.bio.acr,общепринятое
+Протромбіновий час,blood_venous,,blood.coag.pt,общепринятое
+Протромбиновое время,blood_venous,,blood.coag.pt,общепринятое
+Міжнародне нормалізоване відношення,blood_venous,,blood.coag.inr,общепринятое
+Международное нормализованное отношение,blood_venous,,blood.coag.inr,общепринятое
+МНВ,blood_venous,,blood.coag.inr,общепринятое
+МНО,blood_venous,,blood.coag.inr,общепринятое
+% за Квіком,blood_venous,,blood.coag.quick,CSD
+Протромбін за Квіком,blood_venous,,blood.coag.quick,общепринятое
+Протромбин по Квику,blood_venous,,blood.coag.quick,общепринятое
+Активований частковий тромбопластиновий час,blood_venous,,blood.coag.aptt,общепринятое
+Активированное частичное тромбопластиновое время,blood_venous,,blood.coag.aptt,общепринятое
+Фібриноген,blood_venous,,blood.coag.fibrinogen,общепринятое
+Фибриноген,blood_venous,,blood.coag.fibrinogen,общепринятое
+D-димер,blood_venous,,blood.coag.ddimer,общепринятое
+Д-димер,blood_venous,,blood.coag.ddimer,общепринятое
+Простат-специфічний антиген вільний,blood_venous,,blood.horm.psa_free,общепринятое
+ПСА вільний,blood_venous,,blood.horm.psa_free,общепринятое
+ПСА свободный,blood_venous,,blood.horm.psa_free,общепринятое
+Індекс ПСА,blood_venous,,blood.horm.psa_ratio,общепринятое
+Співвідношення вільний/загальний ПСА,blood_venous,,blood.horm.psa_ratio,общепринятое
+Простат-специфічний антиген загальний (ПСА),blood_venous,,blood.horm.psa,общепринятое
+ПСА загальний,blood_venous,,blood.horm.psa,общепринятое
+Амілаза,blood_venous,,blood.bio.amylase,общепринятое
+Амилаза,blood_venous,,blood.bio.amylase,общепринятое
+Ліпаза,blood_venous,,blood.bio.lipase,общепринятое
+Липаза,blood_venous,,blood.bio.lipase,общепринятое
+ЛДГ (лактатдегідрогеназа),blood_venous,,blood.bio.ldh,общепринятое
+ЛДГ (лактатдегидрогеназа),blood_venous,,blood.bio.ldh,общепринятое
+КФК (креатинкіназа),blood_venous,,blood.bio.ck,общепринятое
+КФК (креатинкиназа),blood_venous,,blood.bio.ck,общепринятое
+Фосфор неорганічний,blood_venous,,blood.elec.phos,общепринятое
+Фосфор неорганический,blood_venous,,blood.elec.phos,общепринятое
+Хлор,blood_venous,,blood.elec.cl,общепринятое
+Хлор,blood_venous,,blood.elec.cl,общепринятое
+Кальцій загальний,blood_venous,,blood.elec.ca_total,общепринятое
+Кальций общий,blood_venous,,blood.elec.ca_total,общепринятое
+Фолієва кислота,blood_venous,,blood.vit.folate,общепринятое
+Фолиевая кислота,blood_venous,,blood.vit.folate,общепринятое
+Т3 вільний,blood_venous,,blood.thyroid.ft3,общепринятое
+Т3 свободный,blood_venous,,blood.thyroid.ft3,общепринятое
+Т4 загальний,blood_venous,,blood.thyroid.tt4,общепринятое
+Т4 общий,blood_venous,,blood.thyroid.tt4,общепринятое
+Антитіла до тиреоглобуліну,blood_venous,,blood.thyroid.atg,общепринятое
+Антитела к тиреоглобулину,blood_venous,,blood.thyroid.atg,общепринятое
+Кортизол,blood_venous,,blood.horm.cortisol,общепринятое
+Кортизол,blood_venous,,blood.horm.cortisol,общепринятое
+Естрадіол,blood_venous,,blood.horm.estradiol,общепринятое
+Эстрадиол,blood_venous,,blood.horm.estradiol,общепринятое

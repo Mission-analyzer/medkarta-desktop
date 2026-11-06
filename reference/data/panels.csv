@@ -1,0 +1,170 @@
+﻿Панель,Название (рус.),Название (укр.),Название (англ.),Порядок,key
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,1,blood.cbc.wbc
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,2,blood.cbc.rbc
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,3,blood.cbc.hgb
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,4,blood.cbc.hct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,5,blood.cbc.mcv
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,6,blood.cbc.mch
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,7,blood.cbc.mchc
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,8,blood.cbc.plt
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,9,blood.cbc.rdw_sd
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,10,blood.cbc.rdw_cv
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,11,blood.cbc.pdw_fl
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,12,blood.cbc.mpv
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,13,blood.cbc.pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,14,blood.cbc.neut_pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,15,blood.cbc.neut_abs
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,16,blood.cbc.lymph_pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,17,blood.cbc.lymph_abs
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,18,blood.cbc.mono_pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,19,blood.cbc.mono_abs
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,20,blood.cbc.eos_pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,21,blood.cbc.eos_abs
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,22,blood.cbc.baso_pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,23,blood.cbc.baso_abs
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,24,blood.cbc.ig_pct
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,25,blood.cbc.ig_abs
+blood.cbc,Общий анализ крови,Загальний аналіз крові,Complete blood count,26,blood.esr
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,1,blood.bio.alt
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,2,blood.bio.ast
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,3,blood.bio.ggt
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,4,blood.bio.alp
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,5,blood.bio.bil_total
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,6,blood.bio.bil_direct
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,7,blood.bio.bil_indirect
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,8,blood.bio.protein
+blood.liver,Печёночные пробы,Печінкові проби,Liver panel,9,blood.bio.albumin
+blood.kidney,Почечные пробы,Ниркові проби,Kidney panel,1,blood.bio.creat
+blood.kidney,Почечные пробы,Ниркові проби,Kidney panel,2,blood.bio.urea
+blood.kidney,Почечные пробы,Ниркові проби,Kidney panel,3,blood.bio.uric
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,1,urine.oam.color
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,2,urine.oam.clarity
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,3,urine.oam.sg
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,4,urine.oam.ph
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,5,urine.oam.protein
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,6,urine.oam.glucose
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,7,urine.oam.ketones
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,8,urine.oam.bilirubin
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,9,urine.oam.urobilinogen
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,10,urine.oam.nitrite
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,11,urine.oam.rbc_strip
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,12,urine.oam.hb_strip
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,13,urine.oam.wbc_strip
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,14,urine.oam.rbc
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,15,urine.oam.rbc_nonlysed
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,16,urine.oam.wbc
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,17,urine.oam.wbc_clumps
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,18,urine.oam.epi
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,19,urine.oam.epi_squamous
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,20,urine.oam.epi_nonsquamous
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,21,urine.oam.epi_transitional
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,22,urine.oam.epi_renal
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,23,urine.oam.casts
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,24,urine.oam.casts_hyaline
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,25,urine.oam.casts_epithelial
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,26,urine.oam.casts_granular
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,27,urine.oam.casts_waxy
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,28,urine.oam.casts_rbc
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,29,urine.oam.casts_wbc
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,30,urine.oam.crystals
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,31,urine.oam.cr_oxalate
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,32,urine.oam.cr_triple
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,33,urine.oam.cr_uric
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,34,urine.oam.cr_phoslime
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,35,urine.oam.cr_biurate
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,36,urine.oam.cr_bilirubin
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,37,urine.oam.cr_carbonate
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,38,urine.oam.cr_phosphate
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,39,urine.oam.amorph_phos
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,40,urine.oam.amorph_urates
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,41,urine.oam.mucus
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,42,urine.oam.bacteria
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,43,urine.oam.bacteria_diff
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,44,urine.oam.yeast
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,45,urine.oam.trichomonas
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,46,urine.oam.sperm
+urine.oam,Общий анализ мочи,Загальний аналіз сечі,Urinalysis,47,urine.oam.atypical
+stool.copro,Копрограмма,Копрограма,Stool analysis,1,stool.copro.form
+stool.copro,Копрограмма,Копрограма,Stool analysis,2,stool.copro.consistency
+stool.copro,Копрограмма,Копрограма,Stool analysis,3,stool.copro.color
+stool.copro,Копрограмма,Копрограма,Stool analysis,4,stool.copro.odor
+stool.copro,Копрограмма,Копрограма,Stool analysis,5,stool.copro.reaction
+stool.copro,Копрограмма,Копрограма,Stool analysis,6,stool.copro.ph
+stool.copro,Копрограмма,Копрограма,Stool analysis,7,stool.copro.connective
+stool.copro,Копрограмма,Копрограма,Stool analysis,8,stool.copro.muscle_undig
+stool.copro,Копрограмма,Копрограма,Stool analysis,9,stool.copro.muscle_dig
+stool.copro,Копрограмма,Копрограма,Stool analysis,10,stool.copro.muscle_striation
+stool.copro,Копрограмма,Копрограма,Stool analysis,11,stool.copro.neutral_fat
+stool.copro,Копрограмма,Копрограма,Stool analysis,12,stool.copro.fatty_acids
+stool.copro,Копрограмма,Копрограма,Stool analysis,13,stool.copro.fiber_undig
+stool.copro,Копрограмма,Копрограма,Stool analysis,14,stool.copro.soaps
+stool.copro,Копрограмма,Копрограма,Stool analysis,15,stool.copro.fiber_dig
+stool.copro,Копрограмма,Копрограма,Stool analysis,16,stool.copro.starch_extra
+stool.copro,Копрограмма,Копрограма,Stool analysis,17,stool.copro.starch_intra
+stool.copro,Копрограмма,Копрограма,Stool analysis,18,stool.copro.iodophilic
+stool.copro,Копрограмма,Копрограма,Stool analysis,19,stool.copro.mucus
+stool.copro,Копрограмма,Копрограма,Stool analysis,20,stool.copro.wbc
+stool.copro,Копрограмма,Копрограма,Stool analysis,21,stool.copro.rbc
+stool.copro,Копрограмма,Копрограма,Stool analysis,22,stool.copro.epithelium
+stool.copro,Копрограмма,Копрограма,Stool analysis,23,stool.copro.protozoa
+stool.copro,Копрограмма,Копрограма,Stool analysis,24,stool.copro.yeast
+stool.copro,Копрограмма,Копрограма,Stool analysis,25,stool.copro.helminth_eggs
+stool.copro,Копрограмма,Копрограма,Stool analysis,26,stool.copro.crystals
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,1,imaging.abd.liver
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,2,imaging.abd.portal_vein
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,3,imaging.abd.gb_length
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,4,imaging.abd.gb_width
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,5,imaging.abd.cbd
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,6,imaging.abd.panc_head
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,7,imaging.abd.panc_body
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,8,imaging.abd.panc_tail
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,9,imaging.abd.panc_duct
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,10,imaging.abd.spleen_length
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,11,imaging.abd.spleen_thickness
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,12,imaging.abd.splenic_vein
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,13,imaging.abd.kidney_r_length
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,14,imaging.abd.kidney_r_width
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,15,imaging.abd.kidney_r_par
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,16,imaging.abd.kidney_l_length
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,17,imaging.abd.kidney_l_width
+imaging.abd,УЗИ брюшной полости и почек,УЗД органів черевної порожнини і нирок,Abdominal and renal ultrasound,18,imaging.abd.kidney_l_par
+imaging.thyroid,УЗИ щитовидной железы,УЗД щитовидної залози,Thyroid ultrasound,1,imaging.thyroid.vol_right
+imaging.thyroid,УЗИ щитовидной железы,УЗД щитовидної залози,Thyroid ultrasound,2,imaging.thyroid.vol_left
+imaging.thyroid,УЗИ щитовидной железы,УЗД щитовидної залози,Thyroid ultrasound,3,imaging.thyroid.vol_total
+imaging.thyroid,УЗИ щитовидной железы,УЗД щитовидної залози,Thyroid ultrasound,4,imaging.thyroid.isthmus
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,1,imaging.vessels.imt_r
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,2,imaging.vessels.imt_l
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,3,imaging.vessels.va_d_r
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,4,imaging.vessels.va_d_l
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,5,imaging.vessels.ijv_r
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,6,imaging.vessels.ijv_l
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,7,imaging.vessels.cca_r_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,8,imaging.vessels.cca_r_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,9,imaging.vessels.cca_l_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,10,imaging.vessels.cca_l_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,11,imaging.vessels.eca_r_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,12,imaging.vessels.eca_r_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,13,imaging.vessels.eca_l_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,14,imaging.vessels.eca_l_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,15,imaging.vessels.ica_r_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,16,imaging.vessels.ica_r_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,17,imaging.vessels.ica_l_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,18,imaging.vessels.ica_l_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,19,imaging.vessels.va_r_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,20,imaging.vessels.va_r_ri
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,21,imaging.vessels.va_l_vps
+imaging.vessels,Дуплекс сосудов шеи,Дуплекс судин шиї,Neck vessel duplex,22,imaging.vessels.va_l_ri
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,1,blood.lipid.chol
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,2,blood.lipid.ldl
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,3,blood.lipid.hdl
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,4,blood.lipid.vldl
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,5,blood.lipid.nonhdl
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,6,blood.lipid.tg
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,7,blood.lipid.tc_hdl
+blood.lipid,Липидограмма,Ліпідограма,Lipid panel,8,blood.lipid.ka
+blood.coag,Коагулограмма,Коагулограма,Coagulation panel,1,blood.coag.pt
+blood.coag,Коагулограмма,Коагулограма,Coagulation panel,2,blood.coag.quick
+blood.coag,Коагулограмма,Коагулограма,Coagulation panel,3,blood.coag.inr
+blood.coag,Коагулограмма,Коагулограма,Coagulation panel,4,blood.coag.aptt
+blood.coag,Коагулограмма,Коагулограма,Coagulation panel,5,blood.coag.fibrinogen
+blood.coag,Коагулограмма,Коагулограма,Coagulation panel,6,blood.coag.ddimer
