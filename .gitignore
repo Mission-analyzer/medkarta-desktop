@@ -1,0 +1,12 @@
+# окружение и сборка
+.venv/
+build/
+dist/
+__pycache__/
+*.spec
+# личные данные — никогда не в репозиторий
+data/
+settings.json
+portable.txt
+*.db
+files/
